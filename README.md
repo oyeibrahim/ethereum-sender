@@ -12,5 +12,3 @@ web3 - for accessing Ethereum Blockchain
 ethereumjs-tx - ethereum library for doing core ethereum tasks like signing transaction
 
 Any other module is just for browser testing (express) or info hidding (dotenv)
-
-Contact me: oyetunjiibrahim@gmail.com
